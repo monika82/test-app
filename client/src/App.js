@@ -18,6 +18,8 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Here is our new feature!</h1>
+        <h1>I do it!!!!!</h1>
+        <h1>I am a big man! :)</h1>
         <h1>{this.state.response.body}</h1>
       </div>
     );
